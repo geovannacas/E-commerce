@@ -5,7 +5,6 @@
 - <a href="https://github.com/geovannacas" target="_blank"> Geovanna Cunha </a>
 - <a href="https://github.com/vitu2" target="_blank"> Victor Emanuel </a>
 - <a href="https://github.com/Flavio-JS" target="_blank"> Flávio Filho </a>
-- <a href="https://github.com/AldoRoqueF" target="_blank"> Aldo Roque </a>
 
 ## Technologies
 - ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
